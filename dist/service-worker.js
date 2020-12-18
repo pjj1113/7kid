@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ff606231e9616fc157146d01ba74dd2c.js"
+  "/precache-manifest.1533dbde24767b37f3586cd453372a46.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "invite"});
